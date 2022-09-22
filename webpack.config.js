@@ -13,7 +13,7 @@ module.exports = {
   // defined above
  entry:{
 
-    stopwatch: './stopwatch.ts'
+    pigLatin: './pigLatin.ts'
 },
 devServer: {
     inline: true,
